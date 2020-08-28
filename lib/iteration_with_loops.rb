@@ -13,4 +13,5 @@ def find_min_in_nested_arrays(src)
   min_week_temperatures << min_daily_temperature
   row_index += 1  
   end    
+min_week_temperatures
 end
